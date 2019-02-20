@@ -1,0 +1,21 @@
+
+.page-not-found{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 50%;
+    .four{
+        font-size: 38px;
+        font-weight: bold;
+        color: #aaa;
+    }
+    .tip{
+        font-size: 14px;
+        color: #aaa;
+    }
+}
